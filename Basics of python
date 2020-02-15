@@ -71,6 +71,8 @@ Set Types:	set, frozenset
 Boolean Type:	bool
 Binary Types:	bytes, bytearray, memoryview
 
+Capitalize()     Converts the character to upper case
+casefold()       Coverts string int lower case
 
  
 
