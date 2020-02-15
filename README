@@ -3,3 +3,6 @@ Hey!.... Are you beginner in Python Let's Get Started from Basic
 print('Hello World!')
 -----To print without new line---
 print('Hello Word!',end=',')
+
+---------*********-----------
+Check Out more in Bascics of pyhton.
