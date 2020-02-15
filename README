@@ -1,0 +1,4 @@
+----It will print a new line at last----
+print('Hello World!')
+-----To print without new line---
+print('Hello Word!',end=',')
