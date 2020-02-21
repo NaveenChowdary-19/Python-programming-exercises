@@ -1,10 +1,5 @@
-++++++DICT++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++DICTIONARIES++++++++++++++++++++++++++++++++++++++++
 
-
-indexmodules |next |previous | Python »   Documentation » The Python Standard Library »
-Quick search
-  |
-Built-in Types
 The following sections describe the standard types that are built into the interpreter.
 
 The principal built-in types are numerics, sequences, mappings, classes, instances and exceptions.
